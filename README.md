@@ -4,3 +4,5 @@ repo de testes para o gitproxy
 testando o git proxy
 
 Adicionando linhas
+
+DANI, PASSOU PELO PROXY
